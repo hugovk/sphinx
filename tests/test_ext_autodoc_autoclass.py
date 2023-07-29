@@ -6,7 +6,6 @@ source file translated by test_build.
 
 from __future__ import annotations
 
-import typing
 from typing import Union
 
 import pytest

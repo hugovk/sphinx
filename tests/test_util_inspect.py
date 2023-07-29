@@ -9,7 +9,7 @@ import functools
 import sys
 import types
 from inspect import Parameter
-from typing import Callable, List, Optional, Union  # NoQA: UP035
+from typing import Callable, Optional, Union  # NoQA: UP035
 
 import pytest
 

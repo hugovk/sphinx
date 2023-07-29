@@ -7,11 +7,8 @@ from types import TracebackType
 from typing import (
     Any,
     Callable,
-    Dict,
-    List,
     NewType,
     Optional,
-    Tuple,
     TypeVar,
     Union,
 )
