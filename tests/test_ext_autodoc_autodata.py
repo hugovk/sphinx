@@ -76,7 +76,7 @@ def test_autodata_GenericAlias(app):
         '',
         '   A list of int',
         '',
-        '   alias of :py:class:`~typing.List`\\ [:py:class:`int`]',
+        '   alias of :py:class:`list`\\ [:py:class:`int`]',
         '',
     ]
 
