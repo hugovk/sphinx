@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from contextlib import contextmanager
 from functools import lru_cache
-from typing import Generator
+from collections.abc import Generator
 
 
 @lru_cache(maxsize=None)
