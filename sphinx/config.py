@@ -153,7 +153,7 @@ class Config:
                                   'builders': ['man', 'text']},
                                  'env', []),
         'option_emphasise_placeholders': (False, 'env', []),
-        'enable_parallel_post_transform': (False, 'html', []),
+        'enable_parallel_post_transform': (True, 'html', []),
     }
 
     def __init__(self, config: dict[str, Any] | None = None,
